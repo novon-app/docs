@@ -13,7 +13,7 @@ export default function HomePage() {
               <span className="hero-tagline">Full-featured reader</span>
             </h1>
             <p className="hero-lead">
-              Discover and read manga, webtoons, comics, and more – easier than ever on your
+              Discover and read light novels, web novels, and more – easier than ever on your
               Android device.
             </p>
             <div className="hero-actions">
